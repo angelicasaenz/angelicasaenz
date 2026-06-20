@@ -29,3 +29,5 @@
 ## 📌 Repositorios destacados
 
 Aquí encontrarás ejercicios, retos de programación y proyectos desarrollados durante mi proceso de aprendizaje.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angélica_Sáenz-blue?logo=linkedin)](https://www.linkedin.com/in/angelica-saenz/)
