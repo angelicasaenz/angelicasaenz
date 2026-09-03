@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Angélica
+# Angélica Sáenz
 
 🎓 Estudiante de Ingeniería de Software.
 
