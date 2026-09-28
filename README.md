@@ -1,33 +1,35 @@
 # Angélica Sáenz
 
-🎓 Estudiante de Ingeniería de Software.
+Estudiante de Ingeniería de Software enfocada en el desarrollo Java Backend y bases del desarrollo de software. En constante aprendizaje sobre la creación de aplicaciones web, diseño de APIs RESTful, persistencia de datos y buenas prácticas de programación.
 
-💼 Actualmente trabajo en RCN mientras continúo desarrollando mis habilidades técnicas.
+Fortaleciendo activamente mis competencias en el ecosistema Java, aplicando principios de programación orientada a objetos, pruebas unitarias y flujos de trabajo colaborativos con Git.
 
-☕ En este momento estoy enfocada en aprender Java, mejorar mi lógica de programación y construir una base sólida en desarrollo de software.
+---
 
-## 🚀 Tecnologías y herramientas
+## Perfil Técnico y Herramientas
 
-- Java
-- Git y GitHub
-- Springboot
+### Lenguajes y Frameworks
+- **Lenguajes:** Java (JDK 17+)
+- **Frameworks Backend:** Spring Boot 3, Spring Data JPA, Spring Security
+- **Bases de Datos:** MySQL, PostgreSQL
 
-## 📚 Actualmente aprendiendo
+### Herramientas y Metodologías
+- **Control de Versiones:** Git, GitHub (Flujos de trabajo con ramas Feature Branching y Pull Requests)
+- **Entornos de Desarrollo:** IntelliJ IDEA
+- **Modelado y Pruebas:** UML (StarUML), Postman, JUnit 5, Mockito
+- **Gestión:** Maven, Trello (Metodología Scrum)
 
-- Programación orientada a objetos
-- Colecciones en Java (ArrayList, List)
-- Algoritmos y estructuras de datos
-- Buenas prácticas de programación
+---
 
-## 🎯 Objetivos
+## Enfoque de Aprendizaje Actual
 
-- Seguir mejorando mi lógica de programación.
-- Construir proyectos personales.
-- Documentar mi progreso y aprendizaje en este perfil.
-- Convertirme en una desarrolladora de software competente y en constante crecimiento.
+- Profundización en arquitectura en capas (Layered Architecture) y patrones de diseño backend.
+- Construcción e integración de APIs RESTful con persistencia relacional y autenticación con JWT.
+- Fortalecimiento de la lógica de programación, estructuras de datos y algoritmos.
+- Aplicación de buenas prácticas de código limpio y principios SOLID.
 
-## 📌 Repositorios destacados
+---
 
-Aquí encontrarás ejercicios, retos de programación y proyectos desarrollados durante mi proceso de aprendizaje.
+## Contacto Profesional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angélica_Sáenz-blue?logo=linkedin)](https://www.linkedin.com/in/angelica-saenz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angélica_Sáenz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelica-saenz/)
